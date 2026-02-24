@@ -20,7 +20,8 @@ config.window_padding = appearance.window_padding
 
 config.front_end = appearance.front_end
 config.max_fps = appearance.max_fps
-
+config.freetype_load_flags = appearance.freetype_load_flags
+config.webgpu_preferred_adapter = appearance.webgpu_preferred_adapter
 config.use_fancy_tab_bar = false
 config.tab_bar_at_bottom = true
 config.hide_tab_bar_if_only_one_tab = true
